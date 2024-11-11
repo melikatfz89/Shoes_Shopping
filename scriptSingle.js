@@ -30,5 +30,5 @@ if (findshoe){
      imgElem.setAttribute('src',findshoe.img)
 }
 else{
-    location.href='file:///C:/Users/pc/Desktop/Shoes%20Shopping/index.html';
+    location.href='https://melikatfz89.github.io/Shoes_Shopping/';
 }

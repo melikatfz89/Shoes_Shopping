@@ -20,7 +20,7 @@ let produceShoes= ShoesAray.forEach(function(myshoe){
                 <p>${myshoe.brand}</p>
                 <img src="${myshoe.img}" alt="">
                 <div class="second-div">
-                    <a href="file:///C:/Users/pc/Desktop/Shoes%20Shopping/singleProduct.html?id=${myshoe.id}">show more</a>
+                    <a href="https://github.com/melikatfz89/Shoes_Shopping/blob/master/singleproduct.html?id=${myshoe.id}">show more</a>
                     <span>${myshoe.price+ " " + "$"}</span>
                 </div>
             </div>`;
